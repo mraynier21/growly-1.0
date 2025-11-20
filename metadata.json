@@ -1,0 +1,5 @@
+{
+  "name": "Growly - Finanzas Personales",
+  "description": "Una aplicación moderna y minimalista para el control de gastos e ingresos en Perú. Soporte para Yape, Plin y Metas de Ahorro. Modo oscuro automático.",
+  "requestFramePermissions": []
+}
